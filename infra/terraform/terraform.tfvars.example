@@ -1,0 +1,9 @@
+
+aws_region             = "us-east-1"
+instance_type          = "t2.micro"
+availability_zone      = "us-east-1a"
+cloudflare_api_token   = ""
+cloudflare_zone_name   = "belajar-affiliate.com"
+cloudflare_record_name = "www"
+cloudflare_account_id  = ""
+cloudflare_zone_id     = ""
